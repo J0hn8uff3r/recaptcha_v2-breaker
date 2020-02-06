@@ -3,4 +3,4 @@ Small probe of concept to demonstrate that Google Recaptcha v2 images challenge 
 
 ![alt tag](https://snipboard.io/tfEGDi.jpg)
 
-![alt tag](https://snipboard.io/8xdIMg.jpg)![alt tag](https://snipboard.io/ANqpZY.jpg)![alt tag](https://snipboard.io/QzjgHY.jpg)
+![alt tag](https://snipboard.io/8xdIMg.jpg) ![alt tag](https://snipboard.io/ANqpZY.jpg) ![alt tag](https://snipboard.io/QzjgHY.jpg)

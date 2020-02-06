@@ -9,4 +9,4 @@ Small probe of concept to demonstrate that Google Recaptcha v2 images challenge 
 
 ![alt tag](https://snipboard.io/7PTq93.jpg) ![alt tag](https://snipboard.io/KQvjVZ.jpg) ![alt tag](https://snipboard.io/KWaxFP.jpg)
 
-![alt tag](https://snipboard.io/jQGH7S.jpg)
+![alt tag](https://snipboard.io/bkvuxH.jpg)

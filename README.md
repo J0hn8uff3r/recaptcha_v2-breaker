@@ -1,5 +1,5 @@
 # recaptcha_v2-breaker
-Small probe of concept to demonstrate that Google Recaptcha v2 images challenge can be broken using IBM Watson artificial intelligence
+Small probe of concept to demonstrate that Google Recaptcha v2 images challenge can be broken using IBM Watson artificial intelligence and it seems to work pretty well.
 
 # Remember that it's only a POC, the juicy autoclick images on web broswer part it's not added. Yet...
 

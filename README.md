@@ -20,4 +20,6 @@ print(objects_recognizer(file_name, object_name_to_recognize))
 
 ![alt tag](https://snipboard.io/7PTq93.jpg) ![alt tag](https://snipboard.io/KQvjVZ.jpg) ![alt tag](https://snipboard.io/KWaxFP.jpg)
 
+![alt tag](https://i.snipboard.io/stTy8z.jpg)
+
 ![alt tag](https://snipboard.io/bkvuxH.jpg)

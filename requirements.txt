@@ -1,0 +1,2 @@
+image-slicer
+watson-developer-cloud

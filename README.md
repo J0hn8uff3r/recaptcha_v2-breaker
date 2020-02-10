@@ -3,7 +3,7 @@ Small probe of concept to demonstrate that Google Recaptcha v2 images challenge 
 
 # Remember that it's only a POC, the juicy autoclick images on web broswer part it's not added. Yet...
 
-It's simple (take a look to the three last lines of code), just pass a recaptcha payload image, the object the current recaptcha text ask for, and let the magic happen.
+It's simple (take a look to the three last lines of code), just pass a recaptcha payload image, the object the current recaptcha text ask for, and let the magic happen. A python list with 1's positions to be clicked on the image will be returned.
 
 file_name = "payload"
 
